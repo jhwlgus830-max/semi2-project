@@ -1,0 +1,5 @@
+﻿Model,Dataset,Val_Acc,Val_Loss,Val_F1,Test_Acc,Test_Loss,Test_F1,save_dir
+KoELECTRA,Dataset1,0.9077,0.3963,0.9085,0.9088,0.3947,0.9095,./saved_models\KoELECTRA_Dataset1
+KoELECTRA,Dataset2,0.8928,0.4379,0.893,0.8904,0.4352,0.8893,./saved_models\KoELECTRA_Dataset2
+KoELECTRA,Dataset3,0.8491,0.649,0.8479,0.8394,0.6763,0.839,./saved_models\KoELECTRA_Dataset3
+KoELECTRA,Dataset4,0.8693,0.5311,0.8689,0.8531,0.6277,0.8532,./saved_models\KoELECTRA_Dataset4

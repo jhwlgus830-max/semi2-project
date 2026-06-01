@@ -1,0 +1,5 @@
+﻿Model,Dataset,Val_Acc,Val_Loss,Val_F1,Test_Acc,Test_Loss,Test_F1,save_dir
+KLUBERT,Dataset1,0.8746,0.5939,0.8793,0.869,0.606,0.8745,./saved_models_batch_1_2_lr_1_2_5\KLUBERT_Dataset1
+KLUBERT,Dataset2,0.8887,0.6005,0.8907,0.881,0.6397,0.8837,./saved_models_batch_1_2_lr_1_2_5\KLUBERT_Dataset2
+KLUBERT,Dataset3,0.844,0.5696,0.8445,0.8281,0.5672,0.8285,./saved_models_batch_1_2_lr_1_2_5\KLUBERT_Dataset3
+KLUBERT,Dataset4,0.8559,0.5575,0.8576,0.8406,0.5392,0.8427,./saved_models_batch_1_2_lr_1_2_5\KLUBERT_Dataset4
